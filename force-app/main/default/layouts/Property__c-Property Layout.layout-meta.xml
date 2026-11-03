@@ -28,10 +28,6 @@
                 <field>Zip__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>Days_On_Market__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Tags__c</field>
             </layoutItems>
@@ -52,6 +48,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Price__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>Days_On_Market__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>

@@ -1,0 +1,2989 @@
+{
+  "status": 0,
+  "result": {
+    "checkOnly": true,
+    "completedDate": "2026-11-03T07:18:36.000Z",
+    "createdBy": "005WV00000860tZ",
+    "createdByName": "Demo Launchpad",
+    "createdDate": "2026-11-03T07:18:07.000Z",
+    "details": {
+      "componentSuccesses": [
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:12.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.Broker_Id__c",
+          "id": "00NWV00000KAsDJ2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.Email__c",
+          "id": "00NWV00000KAsDK2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.Mobile_Phone__c",
+          "id": "00NWV00000KAsDL2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.Phone__c",
+          "id": "00NWV00000KAsDM2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.Picture_IMG__c",
+          "id": "00NWV00000KAsDl2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.Picture__c",
+          "id": "00NWV00000KAsDN2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.Title__c",
+          "id": "00NWV00000KAsDO2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Address__c",
+          "id": "00NWV00000KAsDP2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Assessed_Value__c",
+          "id": "00NWV00000KAsDQ2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Baths__c",
+          "id": "00NWV00000KAsDR2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Beds__c",
+          "id": "00NWV00000KAsDS2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Broker__c",
+          "id": "00NWV00000KAsDT2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.City__c",
+          "id": "00NWV00000KAsDU2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Date_Agreement__c",
+          "id": "00NWV00000KAsDV2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Date_Closed__c",
+          "id": "00NWV00000KAsDW2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Date_Contracted__c",
+          "id": "00NWV00000KAsDX2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Date_Listed__c",
+          "id": "00NWV00000KAsDY2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Date_Pre_Market__c",
+          "id": "00NWV00000KAsDZ2A1",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Days_On_Market__c",
+          "id": "00NWV00000KAsDm2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Description__c",
+          "id": "00NWV00000KAsDa2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Location__c",
+          "id": "00NWV00000KAsDb2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Picture_IMG__c",
+          "id": "00NWV00000KAsDn2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Picture__c",
+          "id": "00NWV00000KAsDc2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Price_Sold__c",
+          "id": "00NWV00000KAsDd2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Price__c",
+          "id": "00NWV00000KAsDe2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Record_Link__c",
+          "id": "00NWV00000KAsDf2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.State__c",
+          "id": "00NWV00000KAsDg2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Status__c",
+          "id": "00NWV00000KAsDh2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Tags__c",
+          "id": "00NWV00000KAsDi2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Thumbnail_IMG__c",
+          "id": "00NWV00000KAsDo2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Thumbnail__c",
+          "id": "00NWV00000KAsDj2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomField",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:13.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Zip__c",
+          "id": "00NWV00000KAsDk2AL",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/FileUtilities.cls",
+          "fullName": "FileUtilities",
+          "id": "01pWV000004VE7dYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/FileUtilitiesTest.cls",
+          "fullName": "FileUtilitiesTest",
+          "id": "01pWV000004VE7eYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/GeocodingService.cls",
+          "fullName": "GeocodingService",
+          "id": "01pWV000004VE7fYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/GeocodingServiceTest.cls",
+          "fullName": "GeocodingServiceTest",
+          "id": "01pWV000004VE7gYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/PagedResult.cls",
+          "fullName": "PagedResult",
+          "id": "01pWV000004VE7hYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/PropertyController.cls",
+          "fullName": "PropertyController",
+          "id": "01pWV000004VE7iYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/PropertyDaysOnMarketTest.cls",
+          "fullName": "PropertyDaysOnMarketTest",
+          "id": "01pWV000004VE7jYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/SampleDataController.cls",
+          "fullName": "SampleDataController",
+          "id": "01pWV000004VE7kYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/TestPropertyController.cls",
+          "fullName": "TestPropertyController",
+          "id": "01pWV000004VE7lYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ApexClass",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:20.000Z",
+          "deleted": false,
+          "fileName": "classes/TestSampleDataController.cls",
+          "fullName": "TestSampleDataController",
+          "id": "01pWV000004VE7mYAG",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "StaticResource",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "staticresources/leafletjs.resource",
+          "fullName": "leafletjs",
+          "id": "081WV000001Nl2TYAS",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "StaticResource",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "staticresources/sample_data_brokers.resource",
+          "fullName": "sample_data_brokers",
+          "id": "081WV000001Nl2UYAS",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "StaticResource",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "staticresources/sample_data_contacts.resource",
+          "fullName": "sample_data_contacts",
+          "id": "081WV000001Nl2VYAS",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "StaticResource",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "staticresources/sample_data_properties.resource",
+          "fullName": "sample_data_properties",
+          "id": "081WV000001Nl2WYAS",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningMessageChannel",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "messageChannels/FiltersChange.messageChannel",
+          "fullName": "FiltersChange",
+          "id": "129WV000002LQzFYAW",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningMessageChannel",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "messageChannels/PropertySelected.messageChannel",
+          "fullName": "PropertySelected",
+          "id": "129WV000002LQzGYAW",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/barcodeScanner",
+          "fullName": "barcodeScanner",
+          "id": "0RbWV000000cf8b0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/brokerCard",
+          "fullName": "brokerCard",
+          "id": "0RbWV000000cf8c0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/daysOnMarket",
+          "fullName": "daysOnMarket",
+          "id": "0RbWV000000cf8d0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/errorPanel",
+          "fullName": "errorPanel",
+          "id": "0RbWV000000cf8e0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/ldsUtils",
+          "fullName": "ldsUtils",
+          "id": "0RbWV000000cf8f0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/listContactsFromDevice",
+          "fullName": "listContactsFromDevice",
+          "id": "0RbWV000000cf8g0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/navigateToRecord",
+          "fullName": "navigateToRecord",
+          "id": "0RbWV000000cf8h0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/paginator",
+          "fullName": "paginator",
+          "id": "0RbWV000000cf8i0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/propertyCarousel",
+          "fullName": "propertyCarousel",
+          "id": "0RbWV000000cf8j0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/propertyFilter",
+          "fullName": "propertyFilter",
+          "id": "0RbWV000000cf8k0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/propertyListMap",
+          "fullName": "propertyListMap",
+          "id": "0RbWV000000cf8l0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/propertyLocation",
+          "fullName": "propertyLocation",
+          "id": "0RbWV000000cf8m0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/propertyMap",
+          "fullName": "propertyMap",
+          "id": "0RbWV000000cf8n0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/propertySummary",
+          "fullName": "propertySummary",
+          "id": "0RbWV000000cf8o0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/propertyTile",
+          "fullName": "propertyTile",
+          "id": "0RbWV000000cf8p0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/propertyTileList",
+          "fullName": "propertyTileList",
+          "id": "0RbWV000000cf8q0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "LightningComponentBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "lwc/sampleDataImporter",
+          "fullName": "sampleDataImporter",
+          "id": "0RbWV000000cf8r0AA",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "AuraDefinitionBundle",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "aura/pageTemplate_2_7_3",
+          "fullName": "pageTemplate_2_7_3",
+          "id": "0AbWV000000Pkdx0AC",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomObject",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c",
+          "id": "01IWV000002xVUt2AM",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomObject",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c",
+          "id": "01IWV000002xVUu2AM",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CompactLayout",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.Broker_Compact",
+          "id": "0AHWV000001YpYz4AK",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CompactLayout",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.Property_Compact_Layout",
+          "id": "0AHWV000001YpZ04AK",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ListView",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "objects/Broker__c.object",
+          "fullName": "Broker__c.All",
+          "id": "00BWV00000BRD6K2AX",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ListView",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "objects/Property__c.object",
+          "fullName": "Property__c.All",
+          "id": "00BWV00000BRD6L2AX",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "Layout",
+          "created": false,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "layouts/Broker__c-Broker Layout.layout",
+          "fullName": "Broker__c-Broker Layout",
+          "id": "00hWV000006KEJbYAO",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "Layout",
+          "created": false,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "layouts/Property__c-Property Layout.layout",
+          "fullName": "Property__c-Property Layout",
+          "id": "00hWV000006KEJcYAO",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "FlexiPage",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "flexipages/Broker_Record_Page.flexipage",
+          "fullName": "Broker_Record_Page",
+          "id": "0M0WV000001yyTl0AI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "FlexiPage",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "flexipages/Property_Explorer.flexipage",
+          "fullName": "Property_Explorer",
+          "id": "0M0WV000001yyTp0AI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "FlexiPage",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "flexipages/Property_Finder.flexipage",
+          "fullName": "Property_Finder",
+          "id": "0M0WV000001yyTm0AI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "FlexiPage",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "flexipages/Property_Record_Page.flexipage",
+          "fullName": "Property_Record_Page",
+          "id": "0M0WV000001yyTn0AI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "FlexiPage",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "flexipages/Settings.flexipage",
+          "fullName": "Settings",
+          "id": "0M0WV000001yyTo0AI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomTab",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "tabs/Broker__c.tab",
+          "fullName": "Broker__c",
+          "id": "01rWV00000qrtmDYAQ",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomTab",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "tabs/Property_Explorer.tab",
+          "fullName": "Property_Explorer",
+          "id": "01rWV00000qrtmEYAQ",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomTab",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "tabs/Property_Finder.tab",
+          "fullName": "Property_Finder",
+          "id": "01rWV00000qrtmFYAQ",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomTab",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "tabs/Property__c.tab",
+          "fullName": "Property__c",
+          "id": "01rWV00000qrtmGYAQ",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomTab",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "tabs/Settings.tab",
+          "fullName": "Settings",
+          "id": "01rWV00000qrtmHYAQ",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CustomApplication",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "applications/Dreamhouse.app",
+          "fullName": "Dreamhouse",
+          "id": "02uWV000004GcqFYAS",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "Flow",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "flows/Create_property.flow",
+          "fullName": "Create_property",
+          "id": "301WV00000kocZ4YAI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "ContentAsset",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "contentassets/dreamhouselogosquare.asset",
+          "fullName": "dreamhouselogosquare",
+          "id": "03SWV000000mgMj2AI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "PermissionSet",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "permissionsets/dreamhouse.permissionset",
+          "fullName": "dreamhouse",
+          "id": "0PSWV000005bw5O4AQ",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "RemoteSiteSetting",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "remoteSiteSettings/nominatim_openstreetmap.remoteSite",
+          "fullName": "nominatim_openstreetmap",
+          "id": "0rpWV000000oODdYAM",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CspTrustedSite",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "cspTrustedSites/openStreetMap.cspTrustedSite",
+          "fullName": "openStreetMap",
+          "id": "08yWV0000007MqDYAU",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "CspTrustedSite",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "cspTrustedSites/s3_us_west_2_amazonaws_com.cspTrustedSite",
+          "fullName": "s3_us_west_2_amazonaws_com",
+          "id": "08yWV0000007MqEYAU",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "Prompt",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "prompts/Property.prompt",
+          "fullName": "Property",
+          "id": "0bsWV000003fpUfYAI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "Prompt",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "prompts/PropertyExplorer.prompt",
+          "fullName": "PropertyExplorer",
+          "id": "0bsWV000003fpUgYAI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "Prompt",
+          "created": true,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "prompts/PropertyFinder.prompt",
+          "fullName": "PropertyFinder",
+          "id": "0bsWV000003fpUhYAI",
+          "success": true
+        },
+        {
+          "changed": true,
+          "componentType": "",
+          "created": false,
+          "createdDate": "2026-11-03T07:18:29.000Z",
+          "deleted": false,
+          "fileName": "package.xml",
+          "fullName": "package.xml",
+          "success": true
+        }
+      ],
+      "runTestResult": {
+        "codeCoverage": [
+          {
+            "id": "01pWV000004VE7kYAG",
+            "locationsCovered": [
+              {
+                "column": "0",
+                "line": "3",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "4",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "5",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "6",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "7",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "9",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "10",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "11",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "14",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "15",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "20",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "21",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "22",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "23",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "25",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "28",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "29",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "34",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "35",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "36",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "37",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "39",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "40",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "43",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "44",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "49",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "50",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "51",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "52",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "54",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "57",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "58",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "59",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "60",
+                "numExecutions": "0",
+                "time": "-1.0"
+              }
+            ],
+            "name": "SampleDataController",
+            "namespace": null,
+            "numLocations": 34,
+            "numLocationsNotCovered": 0,
+            "type": "Class",
+            "dmlInfo": [],
+            "locationsNotCovered": [],
+            "methodInfo": [],
+            "soqlInfo": [],
+            "soslInfo": []
+          },
+          {
+            "id": "01pWV000004VE7hYAG",
+            "locationsCovered": [
+              {
+                "column": "0",
+                "line": "3",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "6",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "9",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "12",
+                "numExecutions": "0",
+                "time": "-1.0"
+              }
+            ],
+            "name": "PagedResult",
+            "namespace": null,
+            "numLocations": 4,
+            "numLocationsNotCovered": 0,
+            "type": "Class",
+            "dmlInfo": [],
+            "locationsNotCovered": [],
+            "methodInfo": [],
+            "soqlInfo": [],
+            "soslInfo": []
+          },
+          {
+            "id": "01pWV000004VE7iYAG",
+            "locationsCovered": [
+              {
+                "column": "0",
+                "line": "2",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "3",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "16",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "25",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "26",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "27",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "28",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "29",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "31",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "32",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "34",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "35",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "36",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "37",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "41",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "42",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "43",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "44",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "45",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "46",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "48",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "64",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "65",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "66",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "67",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "68",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "69",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "72",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "73",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "75",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "84",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "85",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "89",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "94",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "95",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "98",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "100",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "101",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "104",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "107",
+                "numExecutions": "0",
+                "time": "-1.0"
+              }
+            ],
+            "name": "PropertyController",
+            "namespace": null,
+            "numLocations": 40,
+            "numLocationsNotCovered": 0,
+            "type": "Class",
+            "dmlInfo": [],
+            "locationsNotCovered": [],
+            "methodInfo": [],
+            "soqlInfo": [],
+            "soslInfo": []
+          },
+          {
+            "id": "01pWV000004VE7dYAG",
+            "locationsCovered": [
+              {
+                "column": "0",
+                "line": "3",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "8",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "9",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "10",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "11",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "12",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "13",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "15",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "18",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "22",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "23",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "24",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "25",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "26",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "28",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "29",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "30",
+                "numExecutions": "0",
+                "time": "-1.0"
+              }
+            ],
+            "name": "FileUtilities",
+            "namespace": null,
+            "numLocations": 17,
+            "numLocationsNotCovered": 0,
+            "type": "Class",
+            "dmlInfo": [],
+            "locationsNotCovered": [],
+            "methodInfo": [],
+            "soqlInfo": [],
+            "soslInfo": []
+          },
+          {
+            "id": "01pWV000004VE7fYAG",
+            "locationsCovered": [
+              {
+                "column": "0",
+                "line": "5",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "8",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "10",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "11",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "12",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "13",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "14",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "15",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "16",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "17",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "18",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "19",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "20",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "21",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "22",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "23",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "24",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "25",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "26",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "28",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "29",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "30",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "31",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "32",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "33",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "34",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "35",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "36",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "38",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "39",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "40",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "41",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "42",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "44",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "48",
+                "numExecutions": "0",
+                "time": "-1.0"
+              },
+              {
+                "column": "0",
+                "line": "50",
+                "numExecutions": "0",
+                "time": "-1.0"
+              }
+            ],
+            "name": "GeocodingService",
+            "namespace": null,
+            "numLocations": 36,
+            "numLocationsNotCovered": 0,
+            "type": "Class",
+            "dmlInfo": [],
+            "locationsNotCovered": [],
+            "methodInfo": [],
+            "soqlInfo": [],
+            "soslInfo": []
+          }
+        ],
+        "numFailures": 0,
+        "numTestsRun": 14,
+        "successes": [
+          {
+            "id": "01pWV000004VE7eYAG",
+            "methodName": "createFileFailsWhenIncorrectBase64Data",
+            "name": "FileUtilitiesTest",
+            "namespace": null,
+            "time": 226
+          },
+          {
+            "id": "01pWV000004VE7eYAG",
+            "methodName": "createFileFailsWhenIncorrectFilename",
+            "name": "FileUtilitiesTest",
+            "namespace": null,
+            "time": 208
+          },
+          {
+            "id": "01pWV000004VE7eYAG",
+            "methodName": "createFileFailsWhenIncorrectRecordId",
+            "name": "FileUtilitiesTest",
+            "namespace": null,
+            "time": 468
+          },
+          {
+            "id": "01pWV000004VE7eYAG",
+            "methodName": "createFileSucceedsWhenCorrectInput",
+            "name": "FileUtilitiesTest",
+            "namespace": null,
+            "time": 569
+          },
+          {
+            "id": "01pWV000004VE7gYAG",
+            "methodName": "blankAddress",
+            "name": "GeocodingServiceTest",
+            "namespace": null,
+            "time": 94
+          },
+          {
+            "id": "01pWV000004VE7gYAG",
+            "methodName": "errorResponse",
+            "name": "GeocodingServiceTest",
+            "namespace": null,
+            "time": 92
+          },
+          {
+            "id": "01pWV000004VE7gYAG",
+            "methodName": "successResponse",
+            "name": "GeocodingServiceTest",
+            "namespace": null,
+            "time": 95
+          },
+          {
+            "id": "01pWV000004VE7jYAG",
+            "methodName": "testDaysOnMarketBlankWhenDateListedBlank",
+            "name": "PropertyDaysOnMarketTest",
+            "namespace": null,
+            "time": 149
+          },
+          {
+            "id": "01pWV000004VE7jYAG",
+            "methodName": "testDaysOnMarketFieldPermissionsOnDreamhousePermissionSet",
+            "name": "PropertyDaysOnMarketTest",
+            "namespace": null,
+            "time": 743
+          },
+          {
+            "id": "01pWV000004VE7jYAG",
+            "methodName": "testDaysOnMarketForPropertyListed30DaysAgo",
+            "name": "PropertyDaysOnMarketTest",
+            "namespace": null,
+            "time": 149
+          },
+          {
+            "id": "01pWV000004VE7lYAG",
+            "methodName": "testGetPagedPropertyList",
+            "name": "TestPropertyController",
+            "namespace": null,
+            "time": 1830
+          },
+          {
+            "id": "01pWV000004VE7lYAG",
+            "methodName": "testGetPicturesNoResults",
+            "name": "TestPropertyController",
+            "namespace": null,
+            "time": 150
+          },
+          {
+            "id": "01pWV000004VE7lYAG",
+            "methodName": "testGetPicturesWithResults",
+            "name": "TestPropertyController",
+            "namespace": null,
+            "time": 684
+          },
+          {
+            "id": "01pWV000004VE7mYAG",
+            "methodName": "importSampleData",
+            "name": "TestSampleDataController",
+            "namespace": null,
+            "time": 422
+          }
+        ],
+        "totalTime": 6049,
+        "codeCoverageWarnings": [],
+        "failures": [],
+        "flowCoverage": [],
+        "flowCoverageWarnings": []
+      },
+      "componentFailures": []
+    },
+    "done": true,
+    "id": "0AfWV000009o2r30AA",
+    "ignoreWarnings": false,
+    "lastModifiedDate": "2026-11-03T07:18:36.000Z",
+    "numberComponentErrors": 0,
+    "numberComponentsDeployed": 94,
+    "numberComponentsTotal": 94,
+    "numberFiles": "150",
+    "numberTestErrors": 0,
+    "numberTestsCompleted": 14,
+    "numberTestsTotal": 14,
+    "rollbackOnError": true,
+    "runTestsEnabled": true,
+    "startDate": "2026-11-03T07:18:07.000Z",
+    "status": "Succeeded",
+    "success": true,
+    "zipSize": "329939",
+    "deployExtensionResults": [],
+    "files": [
+      {
+        "fullName": "FileUtilities",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/FileUtilities.cls"
+      },
+      {
+        "fullName": "FileUtilities",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/FileUtilities.cls-meta.xml"
+      },
+      {
+        "fullName": "FileUtilitiesTest",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/FileUtilitiesTest.cls"
+      },
+      {
+        "fullName": "FileUtilitiesTest",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/FileUtilitiesTest.cls-meta.xml"
+      },
+      {
+        "fullName": "GeocodingService",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/GeocodingService.cls"
+      },
+      {
+        "fullName": "GeocodingService",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/GeocodingService.cls-meta.xml"
+      },
+      {
+        "fullName": "GeocodingServiceTest",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/GeocodingServiceTest.cls"
+      },
+      {
+        "fullName": "GeocodingServiceTest",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/GeocodingServiceTest.cls-meta.xml"
+      },
+      {
+        "fullName": "PagedResult",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/PagedResult.cls"
+      },
+      {
+        "fullName": "PagedResult",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/PagedResult.cls-meta.xml"
+      },
+      {
+        "fullName": "PropertyController",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/PropertyController.cls"
+      },
+      {
+        "fullName": "PropertyController",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/PropertyController.cls-meta.xml"
+      },
+      {
+        "fullName": "PropertyDaysOnMarketTest",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/PropertyDaysOnMarketTest.cls"
+      },
+      {
+        "fullName": "PropertyDaysOnMarketTest",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/PropertyDaysOnMarketTest.cls-meta.xml"
+      },
+      {
+        "fullName": "SampleDataController",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/SampleDataController.cls"
+      },
+      {
+        "fullName": "SampleDataController",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/SampleDataController.cls-meta.xml"
+      },
+      {
+        "fullName": "TestPropertyController",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/TestPropertyController.cls"
+      },
+      {
+        "fullName": "TestPropertyController",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/TestPropertyController.cls-meta.xml"
+      },
+      {
+        "fullName": "TestSampleDataController",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/TestSampleDataController.cls"
+      },
+      {
+        "fullName": "TestSampleDataController",
+        "type": "ApexClass",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/classes/TestSampleDataController.cls-meta.xml"
+      },
+      {
+        "fullName": "pageTemplate_2_7_3",
+        "type": "AuraDefinitionBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.cmp"
+      },
+      {
+        "fullName": "pageTemplate_2_7_3",
+        "type": "AuraDefinitionBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.cmp-meta.xml"
+      },
+      {
+        "fullName": "pageTemplate_2_7_3",
+        "type": "AuraDefinitionBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.design"
+      },
+      {
+        "fullName": "pageTemplate_2_7_3",
+        "type": "AuraDefinitionBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/aura/pageTemplate_2_7_3/pageTemplate_2_7_3.svg"
+      },
+      {
+        "fullName": "Broker__c.Broker_Compact",
+        "type": "CompactLayout",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/compactLayouts/Broker_Compact.compactLayout-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Property_Compact_Layout",
+        "type": "CompactLayout",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/compactLayouts/Property_Compact_Layout.compactLayout-meta.xml"
+      },
+      {
+        "fullName": "dreamhouselogosquare",
+        "type": "ContentAsset",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/contentassets/dreamhouselogosquare.asset"
+      },
+      {
+        "fullName": "dreamhouselogosquare",
+        "type": "ContentAsset",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/contentassets/dreamhouselogosquare.asset-meta.xml"
+      },
+      {
+        "fullName": "openStreetMap",
+        "type": "CspTrustedSite",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/cspTrustedSites/openStreetMap.cspTrustedSite-meta.xml"
+      },
+      {
+        "fullName": "s3_us_west_2_amazonaws_com",
+        "type": "CspTrustedSite",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/cspTrustedSites/s3_us_west_2_amazonaws_com.cspTrustedSite-meta.xml"
+      },
+      {
+        "fullName": "Dreamhouse",
+        "type": "CustomApplication",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/applications/Dreamhouse.app-meta.xml"
+      },
+      {
+        "fullName": "Broker__c.Broker_Id__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/fields/Broker_Id__c.field-meta.xml"
+      },
+      {
+        "fullName": "Broker__c.Email__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/fields/Email__c.field-meta.xml"
+      },
+      {
+        "fullName": "Broker__c.Mobile_Phone__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/fields/Mobile_Phone__c.field-meta.xml"
+      },
+      {
+        "fullName": "Broker__c.Phone__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/fields/Phone__c.field-meta.xml"
+      },
+      {
+        "fullName": "Broker__c.Picture_IMG__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/fields/Picture_IMG__c.field-meta.xml"
+      },
+      {
+        "fullName": "Broker__c.Picture__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/fields/Picture__c.field-meta.xml"
+      },
+      {
+        "fullName": "Broker__c.Title__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/fields/Title__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Address__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Address__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Assessed_Value__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Assessed_Value__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Baths__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Baths__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Beds__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Beds__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Broker__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Broker__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.City__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/City__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Date_Agreement__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Date_Agreement__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Date_Closed__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Date_Closed__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Date_Contracted__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Date_Contracted__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Date_Listed__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Date_Listed__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Date_Pre_Market__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Date_Pre_Market__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Days_On_Market__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Days_On_Market__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Description__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Description__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Location__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Location__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Picture_IMG__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Picture_IMG__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Picture__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Picture__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Price_Sold__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Price_Sold__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Price__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Price__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Record_Link__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Record_Link__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.State__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/State__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Status__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Status__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Tags__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Tags__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Thumbnail_IMG__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Thumbnail_IMG__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Thumbnail__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Thumbnail__c.field-meta.xml"
+      },
+      {
+        "fullName": "Property__c.Zip__c",
+        "type": "CustomField",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/fields/Zip__c.field-meta.xml"
+      },
+      {
+        "fullName": "Broker__c",
+        "type": "CustomObject",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/Broker__c.object-meta.xml"
+      },
+      {
+        "fullName": "Property__c",
+        "type": "CustomObject",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/Property__c.object-meta.xml"
+      },
+      {
+        "fullName": "Broker__c",
+        "type": "CustomTab",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/tabs/Broker__c.tab-meta.xml"
+      },
+      {
+        "fullName": "Property_Explorer",
+        "type": "CustomTab",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/tabs/Property_Explorer.tab-meta.xml"
+      },
+      {
+        "fullName": "Property_Finder",
+        "type": "CustomTab",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/tabs/Property_Finder.tab-meta.xml"
+      },
+      {
+        "fullName": "Property__c",
+        "type": "CustomTab",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/tabs/Property__c.tab-meta.xml"
+      },
+      {
+        "fullName": "Settings",
+        "type": "CustomTab",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/tabs/Settings.tab-meta.xml"
+      },
+      {
+        "fullName": "Broker_Record_Page",
+        "type": "FlexiPage",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/flexipages/Broker_Record_Page.flexipage-meta.xml"
+      },
+      {
+        "fullName": "Property_Explorer",
+        "type": "FlexiPage",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/flexipages/Property_Explorer.flexipage-meta.xml"
+      },
+      {
+        "fullName": "Property_Finder",
+        "type": "FlexiPage",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/flexipages/Property_Finder.flexipage-meta.xml"
+      },
+      {
+        "fullName": "Property_Record_Page",
+        "type": "FlexiPage",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml"
+      },
+      {
+        "fullName": "Settings",
+        "type": "FlexiPage",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/flexipages/Settings.flexipage-meta.xml"
+      },
+      {
+        "fullName": "Create_property",
+        "type": "Flow",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/flows/Create_property.flow-meta.xml"
+      },
+      {
+        "fullName": "Broker__c-Broker Layout",
+        "type": "Layout",
+        "state": "Changed",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml"
+      },
+      {
+        "fullName": "Property__c-Property Layout",
+        "type": "Layout",
+        "state": "Changed",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml"
+      },
+      {
+        "fullName": "barcodeScanner",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/barcodeScanner/barcodeScanner.html"
+      },
+      {
+        "fullName": "barcodeScanner",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/barcodeScanner/barcodeScanner.js"
+      },
+      {
+        "fullName": "barcodeScanner",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/barcodeScanner/barcodeScanner.js-meta.xml"
+      },
+      {
+        "fullName": "brokerCard",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/brokerCard/brokerCard.html"
+      },
+      {
+        "fullName": "brokerCard",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/brokerCard/brokerCard.js"
+      },
+      {
+        "fullName": "brokerCard",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/brokerCard/brokerCard.js-meta.xml"
+      },
+      {
+        "fullName": "daysOnMarket",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/daysOnMarket/daysOnMarket.css"
+      },
+      {
+        "fullName": "daysOnMarket",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/daysOnMarket/daysOnMarket.html"
+      },
+      {
+        "fullName": "daysOnMarket",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/daysOnMarket/daysOnMarket.js"
+      },
+      {
+        "fullName": "daysOnMarket",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/daysOnMarket/daysOnMarket.js-meta.xml"
+      },
+      {
+        "fullName": "errorPanel",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/errorPanel/errorPanel.js"
+      },
+      {
+        "fullName": "errorPanel",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/errorPanel/errorPanel.js-meta.xml"
+      },
+      {
+        "fullName": "errorPanel",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/errorPanel/templates/inlineMessage.html"
+      },
+      {
+        "fullName": "errorPanel",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/errorPanel/templates/noDataIllustration.html"
+      },
+      {
+        "fullName": "ldsUtils",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/ldsUtils/ldsUtils.js"
+      },
+      {
+        "fullName": "ldsUtils",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/ldsUtils/ldsUtils.js-meta.xml"
+      },
+      {
+        "fullName": "listContactsFromDevice",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/listContactsFromDevice/listContactsFromDevice.html"
+      },
+      {
+        "fullName": "listContactsFromDevice",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/listContactsFromDevice/listContactsFromDevice.js"
+      },
+      {
+        "fullName": "listContactsFromDevice",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/listContactsFromDevice/listContactsFromDevice.js-meta.xml"
+      },
+      {
+        "fullName": "navigateToRecord",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/navigateToRecord/navigateToRecord.html"
+      },
+      {
+        "fullName": "navigateToRecord",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/navigateToRecord/navigateToRecord.js"
+      },
+      {
+        "fullName": "navigateToRecord",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/navigateToRecord/navigateToRecord.js-meta.xml"
+      },
+      {
+        "fullName": "paginator",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/paginator/paginator.html"
+      },
+      {
+        "fullName": "paginator",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/paginator/paginator.js"
+      },
+      {
+        "fullName": "paginator",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/paginator/paginator.js-meta.xml"
+      },
+      {
+        "fullName": "propertyCarousel",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyCarousel/propertyCarousel.html"
+      },
+      {
+        "fullName": "propertyCarousel",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyCarousel/propertyCarousel.js"
+      },
+      {
+        "fullName": "propertyCarousel",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyCarousel/propertyCarousel.js-meta.xml"
+      },
+      {
+        "fullName": "propertyFilter",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyFilter/propertyFilter.html"
+      },
+      {
+        "fullName": "propertyFilter",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyFilter/propertyFilter.js"
+      },
+      {
+        "fullName": "propertyFilter",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyFilter/propertyFilter.js-meta.xml"
+      },
+      {
+        "fullName": "propertyListMap",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyListMap/propertyListMap.css"
+      },
+      {
+        "fullName": "propertyListMap",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyListMap/propertyListMap.html"
+      },
+      {
+        "fullName": "propertyListMap",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyListMap/propertyListMap.js"
+      },
+      {
+        "fullName": "propertyListMap",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyListMap/propertyListMap.js-meta.xml"
+      },
+      {
+        "fullName": "propertyLocation",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyLocation/propertyLocation.html"
+      },
+      {
+        "fullName": "propertyLocation",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyLocation/propertyLocation.js"
+      },
+      {
+        "fullName": "propertyLocation",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyLocation/propertyLocation.js-meta.xml"
+      },
+      {
+        "fullName": "propertyMap",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyMap/propertyMap.html"
+      },
+      {
+        "fullName": "propertyMap",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyMap/propertyMap.js"
+      },
+      {
+        "fullName": "propertyMap",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyMap/propertyMap.js-meta.xml"
+      },
+      {
+        "fullName": "propertySummary",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertySummary/propertySummary.html"
+      },
+      {
+        "fullName": "propertySummary",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertySummary/propertySummary.js"
+      },
+      {
+        "fullName": "propertySummary",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertySummary/propertySummary.js-meta.xml"
+      },
+      {
+        "fullName": "propertyTile",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyTile/propertyTile.css"
+      },
+      {
+        "fullName": "propertyTile",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyTile/propertyTile.html"
+      },
+      {
+        "fullName": "propertyTile",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyTile/propertyTile.js"
+      },
+      {
+        "fullName": "propertyTile",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyTile/propertyTile.js-meta.xml"
+      },
+      {
+        "fullName": "propertyTileList",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyTileList/propertyTileList.css"
+      },
+      {
+        "fullName": "propertyTileList",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyTileList/propertyTileList.html"
+      },
+      {
+        "fullName": "propertyTileList",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyTileList/propertyTileList.js"
+      },
+      {
+        "fullName": "propertyTileList",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/propertyTileList/propertyTileList.js-meta.xml"
+      },
+      {
+        "fullName": "sampleDataImporter",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.html"
+      },
+      {
+        "fullName": "sampleDataImporter",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.js"
+      },
+      {
+        "fullName": "sampleDataImporter",
+        "type": "LightningComponentBundle",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/lwc/sampleDataImporter/sampleDataImporter.js-meta.xml"
+      },
+      {
+        "fullName": "FiltersChange",
+        "type": "LightningMessageChannel",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/messageChannels/FiltersChange.messageChannel-meta.xml"
+      },
+      {
+        "fullName": "PropertySelected",
+        "type": "LightningMessageChannel",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/messageChannels/PropertySelected.messageChannel-meta.xml"
+      },
+      {
+        "fullName": "Broker__c.All",
+        "type": "ListView",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Broker__c/listViews/All.listView-meta.xml"
+      },
+      {
+        "fullName": "Property__c.All",
+        "type": "ListView",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/objects/Property__c/listViews/All.listView-meta.xml"
+      },
+      {
+        "fullName": "dreamhouse",
+        "type": "PermissionSet",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/permissionsets/dreamhouse.permissionset-meta.xml"
+      },
+      {
+        "fullName": "Property",
+        "type": "Prompt",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/prompts/Property.prompt-meta.xml"
+      },
+      {
+        "fullName": "PropertyExplorer",
+        "type": "Prompt",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/prompts/PropertyExplorer.prompt-meta.xml"
+      },
+      {
+        "fullName": "PropertyFinder",
+        "type": "Prompt",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/prompts/PropertyFinder.prompt-meta.xml"
+      },
+      {
+        "fullName": "nominatim_openstreetmap",
+        "type": "RemoteSiteSetting",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/remoteSiteSettings/nominatim_openstreetmap.remoteSite-meta.xml"
+      },
+      {
+        "fullName": "leafletjs",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/leafletjs.resource-meta.xml"
+      },
+      {
+        "fullName": "leafletjs",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/leafletjs/images/layers-2x.png"
+      },
+      {
+        "fullName": "leafletjs",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/leafletjs/images/layers.png"
+      },
+      {
+        "fullName": "leafletjs",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/leafletjs/images/marker-icon-2x.png"
+      },
+      {
+        "fullName": "leafletjs",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/leafletjs/images/marker-icon.png"
+      },
+      {
+        "fullName": "leafletjs",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/leafletjs/images/marker-shadow.png"
+      },
+      {
+        "fullName": "leafletjs",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/leafletjs/leaflet.css"
+      },
+      {
+        "fullName": "leafletjs",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/leafletjs/leaflet.js"
+      },
+      {
+        "fullName": "sample_data_brokers",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/sample_data_brokers.json"
+      },
+      {
+        "fullName": "sample_data_brokers",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/sample_data_brokers.resource-meta.xml"
+      },
+      {
+        "fullName": "sample_data_contacts",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/sample_data_contacts.json"
+      },
+      {
+        "fullName": "sample_data_contacts",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/sample_data_contacts.resource-meta.xml"
+      },
+      {
+        "fullName": "sample_data_properties",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/sample_data_properties.json"
+      },
+      {
+        "fullName": "sample_data_properties",
+        "type": "StaticResource",
+        "state": "Created",
+        "filePath": "/home/daytona/work/repo/force-app/main/default/staticresources/sample_data_properties.resource-meta.xml"
+      }
+    ],
+    "deployUrl": "https://lauchpad-demo-dev-ed.develop.my.salesforce.com/lightning/setup/DeployStatus/page?address=%2Fchangemgmt%2FmonitorDeploymentsDetails.apexp%3FasyncId%3D0AfWV000009o2r30AA%26retURL%3D%252Fchangemgmt%252FmonitorDeployment.apexp"
+  },
+  "warnings": []
+}
