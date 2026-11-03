@@ -42,3 +42,6 @@ $RECYCLE.BIN/
 
 # Local environment variables
 .env
+
+# Factory tool working files
+.factory/
