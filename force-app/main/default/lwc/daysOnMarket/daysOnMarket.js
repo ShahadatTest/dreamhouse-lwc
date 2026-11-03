@@ -69,7 +69,7 @@ export default class DaysOnMarket extends LightningElement {
     }
 
     get barStyle() {
-        const value = (this.daysOnMarket / MAX_DAYS_CHART) * 100;
+        const value = Math.min(100, (this.daysOnMarket / MAX_DAYS_CHART) * 100);
         return 'width:' + value + '%';
     }
 

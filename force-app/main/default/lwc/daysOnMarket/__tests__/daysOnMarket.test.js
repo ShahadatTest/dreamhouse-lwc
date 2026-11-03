@@ -181,6 +181,24 @@ describe('c-days-on-market', () => {
                 // Select elements for validation
                 validateHTML(element, 'alert');
             });
+
+            it('caps the chart bar at 100% when days exceed MAX_DAYS_CHART', async () => {
+                const element = createElement('c-days-on-market', {
+                    is: DaysOnMarket
+                });
+                element.recordId = '001';
+                document.body.appendChild(element);
+
+                mockGetRecord.fields.Days_On_Market__c.value = 140;
+                getRecord.emit(mockGetRecord);
+
+                await flushPromises();
+
+                const chartBarEl =
+                    element.shadowRoot.querySelector('div.bar.alert');
+                expect(chartBarEl).not.toBeNull();
+                expect(chartBarEl.style.width).toBe('100%');
+            });
         });
     });
     describe('getRecord @wire error', () => {
